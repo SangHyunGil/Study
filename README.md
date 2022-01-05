@@ -8,7 +8,9 @@
 
 ---
 
-Git Convention
+# Git Convention
+
+init: 새로운 책 스터디 
 
 Add: 발표자료 추가
 
